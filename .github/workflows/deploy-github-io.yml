@@ -41,15 +41,13 @@ jobs:
       with:
         repository: anyunderhood/anyunderhood.github.io
         path: github.io
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
 
     - name: Remove all files from repo
       run: git rm -r .
       working-directory: ./github.io
    
-    
     - name: Copy dist to github.io repo
-#       run: cp -r project/dist/ github.io
       run: cp -a project/dist/. github.io/
 
     - name: Commit and Push to anyunderhood.github.io
@@ -58,7 +56,7 @@ jobs:
         git add .
         git config --local user.email "???"
         git config --local user.name "anyunderhood"
-        (git commit -m "Deploy to github.io $(date)"; git push https://$REPO_OWNER:$GITHUB_TOKEN@github.com/anyunderhood/anyunderhood.github.io) || echo "Nothing to commit"
+        (git commit -m "Deploy to github.io $(date)"; git push https://$REPO_OWNER:$CUSTOM_GITHUB_TOKEN@github.com/anyunderhood/anyunderhood.github.io) || echo "Nothing to commit"
       env:
         REPO_OWNER: ${{ secrets.repository_owner }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
