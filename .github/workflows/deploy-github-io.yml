@@ -41,7 +41,7 @@ jobs:
       with:
         repository: anyunderhood/anyunderhood.github.io
         path: github.io
-        token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Remove all files from repo
       run: git rm -r .
@@ -58,7 +58,7 @@ jobs:
         git add .
         git config --local user.email "???"
         git config --local user.name "anyunderhood"
-        (git commit -m "Deploy to github.io $(date)"; git push https://$REPO_OWNER:$CUSTOM_GITHUB_TOKEN@github.com/anyunderhood/anyunderhood.github.io) || echo "Nothing to commit"
+        (git commit -m "Deploy to github.io $(date)"; git push https://$REPO_OWNER:$GITHUB_TOKEN@github.com/anyunderhood/anyunderhood.github.io) || echo "Nothing to commit"
       env:
         REPO_OWNER: ${{ secrets.repository_owner }}
-        CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
