@@ -1,7 +1,7 @@
-const name = "!!!ANYUNDERHOOD.NAME"
-const site = "!!!ANYUNDERHOOD.SITE"
+const name = "mobileunderhood"
+const site = "mobileunderhood.ru"
 
-const description = "!!!ANYUNDERHOOD.description"
+const description = "Коллективный твиттер-аккаунт для мобильных разработчиков с новым автором каждую неделю"
 
 module.exports = {
   "underhood": {
@@ -9,12 +9,12 @@ module.exports = {
     description
   },
   "github": {
-    user: "!!!ANYUNDERHOOD.github.user",
-    repo: "!!!ANYUNDERHOOD.github.repo"
+    user: "etolstoy",
+    repo: "mobileunderhood"
   },
   "curator": {
-    email: "!!!ANYUNDERHOOD.curator.email",
-    twitter: "!!!ANYUNDERHOOD.curator.twitter",
+    email: "igrekde@gmail.com",
+    twitter: "igrekde",
   },
   "site": {
     "title": "Сайт @" + name,

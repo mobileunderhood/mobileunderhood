@@ -1,0 +1,1520 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon May 04 05:07:55 +0000 2020",
+      "id": 1257175099184230400,
+      "id_str": "1257175099184230406",
+      "full_text": "Всем привет! Меня зовут Кирилл Розов, Android Dev. Вы можете знать обо мне по проекту Android Broadcast @andro_broadcast, автором которого я являюсь. На этой неделе буду рассказывать о своем опыте и интересах в Android и Kotlin.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        228
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andro_broadcast",
+            "name": "Android Broadcast",
+            "id": 1140240755568627700,
+            "id_str": "1140240755568627713",
+            "indices": [
+              104,
+              120
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 37,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 05:44:50 +0000 2020",
+      "id": 1257184391442444300,
+      "id_str": "1257184391442444288",
+      "full_text": "Темы которые я хотел затронуть за свои 7 дней:\n\nДень 1. Опыт развития собственного блога\nЯ поделюсь опытом ведения Telegram канала Android Broadcast и как можно попробовать начать что-то свое. \n\nТакже расскажу про Android Broadcast Podcast и YouTube канал.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 05:44:51 +0000 2020",
+      "id": 1257184392868397000,
+      "id_str": "1257184392868397067",
+      "full_text": "День 2. Kotlin, Coroutine и Android\nKotlin перевернул мою разработку с ног на голову и вывел удовольствие от процесса написания кода на новый уровень, пройти мимо такой темы я не могу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257184391442444300,
+      "in_reply_to_status_id_str": "1257184391442444288",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 05:44:51 +0000 2020",
+      "id": 1257184394407817200,
+      "id_str": "1257184394407817217",
+      "full_text": "День 3. Публичные выступления\nПубличные выступления - это мое хобби и я очень люблю заниматься этим сам и помогать другим подготовить доклады. Поговорим о том с чего начать, как делать и зачем.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        193
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257184392868397000,
+      "in_reply_to_status_id_str": "1257184392868397067",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 05:44:52 +0000 2020",
+      "id": 1257184395942903800,
+      "id_str": "1257184395942903808",
+      "full_text": "День 4. Тренды Android разработки\nСовременная Android разработка. Куда она развивается, ждать ли чего-то интересного? Android Dev - это застой развития или есть куда развиваться? Обсудим этим темы и позовем в тредик ребят, которые сменили Android на другие направления.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257184394407817200,
+      "in_reply_to_status_id_str": "1257184394407817217",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 05:44:52 +0000 2020",
+      "id": 1257184397725483000,
+      "id_str": "1257184397725483009",
+      "full_text": "День 5. Прохождение интервью\nКак пройти интервью и бояться отправить CV в большую компанию? Как готовиться? Что думает интервьюере когда задает вопросы и слушает ответы. Расскажу свой опыт с 2 сторон, который актуален в текущее время + мне и самому пришлось искать работу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257184395942903800,
+      "in_reply_to_status_id_str": "1257184395942903808",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 05:44:52 +0000 2020",
+      "id": 1257184399692628000,
+      "id_str": "1257184399692627968",
+      "full_text": "День 6. Обучение в IT\nОбсудим курсы: платные и бесплатные, онлайн и оффлайн; как войти в профессию разработчика и как развиваться самостоятельно, менторство и шаринг знаний",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257184397725483000,
+      "in_reply_to_status_id_str": "1257184397725483009",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 05:44:53 +0000 2020",
+      "id": 1257184401148043300,
+      "id_str": "1257184401148043265",
+      "full_text": "День 7. \"Вопрос-ответ\" + итоги недели\nПоболтаем на разные темы, которые я возможно не задел, но вам было бы интересно затронуть. Также подведем итоги недели",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        156
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257184399692628000,
+      "in_reply_to_status_id_str": "1257184399692627968",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 08:51:48 +0000 2020",
+      "id": 1257231439541788700,
+      "id_str": "1257231439541788680",
+      "full_text": "День 1. Опыт развития собственного блога\n\n1.5 года назад я начал вести свой собственный Telegram канал с новостями из мира Android разработки. Буквально вчера он перешел цифру в 3K подписчиков. Кто-то скажет это немного, но это уже впечатляющие цифры\n\nhttps://t.co/lmoqfXmOE8",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lmoqfXmOE8",
+            "expanded_url": "https://ttttt.me/android_broadcast",
+            "display_url": "ttttt.me/android_broadc…",
+            "indices": [
+              252,
+              275
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 08:51:48 +0000 2020",
+      "id": 1257231440934326300,
+      "id_str": "1257231440934326273",
+      "full_text": "Появился канал случайно. Я вел команду и мне хотелось стимулировать ребят смотреть на что-то новое и на засиживаться в стеке, который навязывал проект с legacy кодом в 5 лет. Я закидывал разные статейки в канал во внутренний Slack. Но однажды один из разработчиков ушел...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257231439541788700,
+      "in_reply_to_status_id_str": "1257231439541788680",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 08:51:48 +0000 2020",
+      "id": 1257231442477801500,
+      "id_str": "1257231442477801472",
+      "full_text": "И он спросил меня: \"Как сделать так, чтобы уйти и не потерять доступ к такой информации?\". И вот тут я подумал, что слышу подобное не в первый раз и решил что стоит попробовать и сделать канал публичным...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        205
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257231440934326300,
+      "in_reply_to_status_id_str": "1257231440934326273",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 08:51:49 +0000 2020",
+      "id": 1257231443790610400,
+      "id_str": "1257231443790610434",
+      "full_text": "Так и зародился Telegram канал Android Broadcast, который вы можете читать каждый день. Что стоит вынести из этого\n\nТО ЧТО У ВАС ПОЛУЧАЕТСЯ ХОРОШО, СТОИТ ПОДЕЛИТЬСЯ ЭТИМ С СООБЩЕСТВОМ\n\nЯ даже и не мог представить, что все для меня обернется так",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        244
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257231442477801500,
+      "in_reply_to_status_id_str": "1257231442477801472",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 08:51:49 +0000 2020",
+      "id": 1257231445099270100,
+      "id_str": "1257231445099270144",
+      "full_text": "И не бойтесь что это будет не так как у топовых блоггеров или крутейших специалистов с конференций. Не обращайте внимание на диванных критиков, они будут всегда!\n\nВЫ НАЧАЛИ ДЕЛАТЬ, ЧТО УЖЕ БОЛЬШЕ ЧЕМ У ДИВАННИКОВ. ВОПРОС ВРЕМЕНИ И УСИЛИЙ КОГДА ВЫЙДЕТЕ В ТОП!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257231443790610400,
+      "in_reply_to_status_id_str": "1257231443790610434",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 09:42:22 +0000 2020",
+      "id": 1257244165139845000,
+      "id_str": "1257244165139845121",
+      "full_text": "@xd720p На самом деле конкурентов много:\n- Start Android (9K, RU)\n- Android Live (5K, RU)\n- Android ResId (9K ENG)\n- Android Good Reads (2K, RU)\n\nНо по качеству контента Android Live, но там низкая частота постов и часть информации важной проходит мимо.",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        253
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xd720p",
+            "name": "Petr CauseLove",
+            "id": 194668428,
+            "id_str": "194668428",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257243066416738300,
+      "in_reply_to_status_id_str": "1257243066416738305",
+      "in_reply_to_user_id": 194668428,
+      "in_reply_to_user_id_str": "194668428",
+      "in_reply_to_screen_name": "xd720p",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon May 04 10:02:39 +0000 2020",
+      "id": 1257249271490982000,
+      "id_str": "1257249271490981889",
+      "full_text": "С чего начинать как вы сделали первые шаги в создание контента? Для начала надо попробовать получить отзывы. Дайте ссылки своим друзьям, коллегам, людям из сообщества. Это важно чтобы понять, что нравится, а что стоит улучшить.\n\nЯ всегда дам вам отзыв и помогу. Telegram krlrozov",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257231445099270100,
+      "in_reply_to_status_id_str": "1257231445099270144",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 10:20:11 +0000 2020",
+      "id": 1257253684708327400,
+      "id_str": "1257253684708327424",
+      "full_text": "@xd720p Вот так и про многие другие каналы люди не знают. Это проблема Telegram - там нет механизма рекомендаций и глубокого поиска. Только если есть ссылка на канал ты найдешь его наверняка.\n\nСамое удивление у меня было, что самая успешная площадка по прослушиваниям подкаста - YouTube",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        286
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xd720p",
+            "name": "Petr CauseLove",
+            "id": 194668428,
+            "id_str": "194668428",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257244760315740200,
+      "in_reply_to_status_id_str": "1257244760315740160",
+      "in_reply_to_user_id": 194668428,
+      "in_reply_to_user_id_str": "194668428",
+      "in_reply_to_screen_name": "xd720p",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 12:54:15 +0000 2020",
+      "id": 1257292454396670000,
+      "id_str": "1257292454396669952",
+      "full_text": "@xd720p Нужно разделить навязывание контента и помощь в поиске в рекомендациях и все будет ок",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        93
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xd720p",
+            "name": "Petr CauseLove",
+            "id": 194668428,
+            "id_str": "194668428",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1257264946985029600,
+      "in_reply_to_status_id_str": "1257264946985029637",
+      "in_reply_to_user_id": 194668428,
+      "in_reply_to_user_id_str": "194668428",
+      "in_reply_to_screen_name": "xd720p",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 13:12:13 +0000 2020",
+      "id": 1257296976128938000,
+      "id_str": "1257296976128937986",
+      "full_text": "Следующий шаг - налаживание регулярного графика контента. Когда ваш блог/канал/подкаст/&lt;что-то ещё&gt; простаивает, то подписчики начнут забывать о вас. Слишком много проектов-спичек, авторы которых быстро теряют интерес...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        226
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1257249271490982000,
+      "in_reply_to_status_id_str": "1257249271490981889",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 13:12:13 +0000 2020",
+      "id": 1257296978192588800,
+      "id_str": "1257296978192588802",
+      "full_text": "Для того чтобы так не случилось с вами вы должны сделать следующее:\n- составить план по созданию контента минимум на несколько недель и выпусков\n- подготовить контент заранее на пару выпусков вперёд\n- не ожидать вспышки огромного интереса сразу\n- шарьте ссылки друзьям...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1257296976128938000,
+      "in_reply_to_status_id_str": "1257296976128937986",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 13:12:14 +0000 2020",
+      "id": 1257296979509612500,
+      "id_str": "1257296979509612544",
+      "full_text": "В начале стоит делиться ссылками с друзьями и знакомыми, так как эта аудитория более позитивно расположена к вам: они вас знают, работали с вами и посоветуют вас другим.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        169
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1257296978192588800,
+      "in_reply_to_status_id_str": "1257296978192588802",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 13:12:14 +0000 2020",
+      "id": 1257296980834947000,
+      "id_str": "1257296980834947076",
+      "full_text": "Следующий путь который применял я - рассказ о вашем проекте в рамках публичного выступления. Люди пришли вас послушать и поэтому у них уже есть интерес, а если ваше выступление им понравится, то скорее всего они будут следить за вами через ваш публичный проект",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        260
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1257296979509612500,
+      "in_reply_to_status_id_str": "1257296979509612544",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 14:05:00 +0000 2020",
+      "id": 1257310259573481500,
+      "id_str": "1257310259573481472",
+      "full_text": "@xd720p Никто и не пытается, либо заставлять смотреть больше (1ый вариант использования рекомендаций) либо просто забивают на них в сервисе",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xd720p",
+            "name": "Petr CauseLove",
+            "id": 194668428,
+            "id_str": "194668428",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257295303549620200,
+      "in_reply_to_status_id_str": "1257295303549620224",
+      "in_reply_to_user_id": 194668428,
+      "in_reply_to_user_id_str": "194668428",
+      "in_reply_to_screen_name": "xd720p",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 14:19:42 +0000 2020",
+      "id": 1257313962099540000,
+      "id_str": "1257313962099539968",
+      "full_text": "Чтобы понимать движетесь ли вы в правильном направление или нет, то общайтесь с аудиторией. Она поможет вам понять, что хорошо, а что стоит изменить. \n\nОтноситесь к критике положительно, потому что люди говорят это вам не со зла, а чтобы показать где у вас слабости..",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257296980834947000,
+      "in_reply_to_status_id_str": "1257296980834947076",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 14:19:43 +0000 2020",
+      "id": 1257313964469284900,
+      "id_str": "1257313964469284872",
+      "full_text": "Я считаю, что все хорошо быть не может и есть всегда аспекты, где можно улучшить качество или рассмотреть новые возможности для расширения границ. Так в свое время появился Android Broadcast Podcast\n\nhttps://t.co/NaO90bBOPQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        223
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NaO90bBOPQ",
+            "expanded_url": "http://soundcloud.com/android_broadcast",
+            "display_url": "soundcloud.com/android_broadc…",
+            "indices": [
+              200,
+              223
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257313962099540000,
+      "in_reply_to_status_id_str": "1257313962099539968",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 14:19:43 +0000 2020",
+      "id": 1257313966201598000,
+      "id_str": "1257313966201597953",
+      "full_text": "Идея родилась на основе того, что я увидел возможность обсудить разные темы с лучшими специалистами из Android индустрии. Формат статей не очень подходил, видео удовлетворительного качество было делать проблемно и решил рассмотреть подкасты.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257313964469284900,
+      "in_reply_to_status_id_str": "1257313964469284872",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 14:19:44 +0000 2020",
+      "id": 1257313968298659800,
+      "id_str": "1257313968298659842",
+      "full_text": "В пользу подкастов также сыграло что Android Dev Podcast перестали активно выпускать новый контент.\n\nПодкаст также оказался новой площадкой чтобы популяризировать проект.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257313966201598000,
+      "in_reply_to_status_id_str": "1257313966201597953",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 14:19:44 +0000 2020",
+      "id": 1257313970232287200,
+      "id_str": "1257313970232287232",
+      "full_text": "Изначально все подкасты выкладывались на YouTube, потому что бесплатно. Чтобы появилась и аудио версия позже стал использовать SoundCloud. \n\nСамым большим удивлением для меня стало, что и на YouTube подкасты слушают лучше и аудитория приходит активнее.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257313968298659800,
+      "in_reply_to_status_id_str": "1257313968298659842",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 14:19:45 +0000 2020",
+      "id": 1257313971893235700,
+      "id_str": "1257313971893235717",
+      "full_text": "Система рекомендаций YouTube работает очень эффективно и показывает что платформы подкастов - это просто устаревший плеер, которые не развиваются со временем.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        158
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257313970232287200,
+      "in_reply_to_status_id_str": "1257313970232287232",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 14:19:45 +0000 2020",
+      "id": 1257313973545758700,
+      "id_str": "1257313973545758724",
+      "full_text": "Первые выпуски делались с плохим оборудованием, чтобы не тратиться. Позже я понял что подкаст зашел и стал вкладываться в оборудование: купил микрофон, попфильтр и стал использовать сервис @SquadCastFM, чтобы писать в хорошем качестве и отдельными дорожками каждого участника",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SquadCastFM",
+            "name": "SquadCast.fm",
+            "id": 806252337467490300,
+            "id_str": "806252337467490305",
+            "indices": [
+              189,
+              201
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257313971893235700,
+      "in_reply_to_status_id_str": "1257313971893235717",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 14:32:50 +0000 2020",
+      "id": 1257317263251697700,
+      "id_str": "1257317263251697664",
+      "full_text": "Если говорить о утилитах для работы с контентом то для создания отложенных постов в Telegram рекомендую сервис https://t.co/AeWSTqSaQS. Он бесплатный и решает все задачи в Android Broadcast, за исключением поддержки стандартных голосовалок",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AeWSTqSaQS",
+            "expanded_url": "http://telepost.me",
+            "display_url": "telepost.me",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257313973545758700,
+      "in_reply_to_status_id_str": "1257313973545758724",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 16:25:57 +0000 2020",
+      "id": 1257345729946845200,
+      "id_str": "1257345729946845184",
+      "full_text": "Я разочаровался платформой подкастов и понял, что нужно двигаться дальше. После рождения дочки я стал очень скучать по публичным выступлениям. YouTube канал Android Broadcast стал как решение этой проблемы и той, что подкаст - это менее популярный формат.\n\nhttps://t.co/EeIayuEYfg",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EeIayuEYfg",
+            "expanded_url": "http://youtube.com/c/androidBroadcast",
+            "display_url": "youtube.com/c/androidBroad…",
+            "indices": [
+              257,
+              280
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257317263251697700,
+      "in_reply_to_status_id_str": "1257317263251697664",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 16:25:57 +0000 2020",
+      "id": 1257345731456884700,
+      "id_str": "1257345731456884743",
+      "full_text": "Что я понял сразу:\n- Легче привлекать новую аудиторию\n- Надо писать сценарии для ролика\n- Сделать качественное видео - очень сложная задача\n- Live Stream - это хороший формат для общения с аудиторией\n- Нужны деньги на оборудование и софт для монтажа видео",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257345729946845200,
+      "in_reply_to_status_id_str": "1257345729946845184",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 16:25:57 +0000 2020",
+      "id": 1257345732799012900,
+      "id_str": "1257345732799012864",
+      "full_text": "Сейчас качество видео у меня на канале хромает, но это связано с большим временем для подготовки записи и публикации видео, большими затратами на оборудование и трудностью делать все в одиночку\n\nПоэтому рекомендую вам не спешить с таким форматом без четкой уверенности",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257345731456884700,
+      "in_reply_to_status_id_str": "1257345731456884743",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 16:25:58 +0000 2020",
+      "id": 1257345734518734800,
+      "id_str": "1257345734518734848",
+      "full_text": "Качественный канал/блог - это стабильность подачи информации. Вы должны понимать, что это много времени на подготовку материала и его качественную подачу.\n\nБудьте готовы стабильно тратить на него время, иначе успеха не добиться.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        228
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257345732799012900,
+      "in_reply_to_status_id_str": "1257345732799012864",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 16:25:58 +0000 2020",
+      "id": 1257345735802212400,
+      "id_str": "1257345735802212354",
+      "full_text": "На Telegram канал Android Broadcast каждый день уходит 1.5 часа для выбора контента. Подготовка ролика - от 4 часов до 3 дней. Подкаст - 1 день",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        143
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257345734518734800,
+      "in_reply_to_status_id_str": "1257345734518734848",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 17:43:32 +0000 2020",
+      "id": 1257365254608216000,
+      "id_str": "1257365254608216067",
+      "full_text": "И давайте еще немного про монетезацию. Какие способы:\n- реклама\n- платный контент\n- донаты\n- не зарабатывать вовсе",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        114
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257345735802212400,
+      "in_reply_to_status_id_str": "1257345735802212354",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 17:43:32 +0000 2020",
+      "id": 1257365255849640000,
+      "id_str": "1257365255849639938",
+      "full_text": "Я не готов образовательный материал давать за деньги (\"платный контент\"). Если кто-то считает что стоит поддержать автора, то он имеет право это сделать. Материал и будет так.\n\nПока каждый не попробует что-то свое, то он не поймет сколько лежит работы и расходов на авторе",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257365254608216000,
+      "in_reply_to_status_id_str": "1257365254608216067",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 04 17:45:50 +0000 2020",
+      "id": 1257365835204694000,
+      "id_str": "1257365835204694016",
+      "full_text": "Какой способ монетизации для проектов вы считаете лучшими?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        58
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
