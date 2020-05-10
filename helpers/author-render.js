@@ -27,7 +27,7 @@ const getQuotedUser = pipe(
 moment.locale('ru');
 
 const weekday = date => moment.utc(new Date(date)).format('dddd');
-const tweetLink = (tweet) => `https://twitter.com/${underhood}/status/${tweet.id_str}`;
+const tweetLink = (tweet) => `https://twitter.com/${underhood.name}/status/${tweet.id_str}`;
 const tweetTime = (tweet) => moment.utc(new Date(tweet.created_at)).format('H:mm');
 
 const authorsToPost = filter((author) => author.post !== false, authors);
@@ -48,7 +48,7 @@ const gd = input => moment.utc(new Date(input)).format('YYYY-MM-DD');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
 
-const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf(`@${underhood}`) === 0);
+const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf(`@${underhood.name}`) === 0);
 const fullText = item => {
   item.text = item.full_text || item.text;
 
