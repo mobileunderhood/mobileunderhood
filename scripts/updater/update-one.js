@@ -5,6 +5,7 @@ import dec from 'bignum-dec';
 import { sync as rm } from 'rimraf';
 
 import { underhood } from '../../underhood.js';
+const underhoodName = underhood.name;
 
 import tokens from 'twitter-tokens';
 import getTweets from '../../helpers/get-tweets';
@@ -28,7 +29,7 @@ const update = (author, maxId) => {
   const tweetsMaxId = maxId && dec(maxId);
   getTweets(
     tokens,
-    underhood,
+    underhoodName,
     tweetsSinceId,
     tweetsMaxId,
     (err, newTweetsRaw) => {
@@ -38,18 +39,18 @@ const update = (author, maxId) => {
     }
   );
 
-  getInfo(tokens, underhood, (err, info) => {
+  getInfo(tokens, underhoodName, (err, info) => {
     if (err) throw err;
     saveAuthorArea(authorId, 'info', info);
   });
 
   rm(`./dump/images/${authorId}*`);
-  saveMedia(tokens, underhood, authorId, (err, media) => {
+  saveMedia(tokens, underhoodName, authorId, (err, media) => {
     if (err) throw err;
     saveAuthorArea(authorId, 'media', media);
   });
 
-  getFollowers(tokens, underhood, (err, followersIds) => {
+  getFollowers(tokens, underhoodName, (err, followersIds) => {
     if (err) throw err;
     saveAuthorArea(authorId, 'followers', { followersIds });
   });
