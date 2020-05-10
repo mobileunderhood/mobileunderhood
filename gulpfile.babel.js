@@ -256,6 +256,7 @@ const watchers = () => {
   gulp.watch(['**/*.jade'], gulp.series(css, htmlPages));
   gulp.watch(['css/**/*.css'], css);
   gulp.watch('js/**/*.js', js);
+  gulp.watch('pages/**/*.md', gulp.parallel(about, forAuthors, instruction));
   gulp.watch('static/**', staticPages);
 };
 
