@@ -1,4 +1,4 @@
-name: Deploy to anyunderhood.github.io
+name: Deploy to mobileunderhood.github.io
 
 on:
   push:
@@ -27,7 +27,7 @@ jobs:
       run: |
         npm ci
         npm run build
-        
+
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v2
       with:
@@ -39,24 +39,24 @@ jobs:
     - name: Checkout ghpages repo
       uses: actions/checkout@v2
       with:
-        repository: anyunderhood/anyunderhood.github.io
+        repository: mobileunderhood/mobileunderhood.github.io
         path: github.io
         token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
 
     - name: Remove all files from repo
       run: git rm -r .
       working-directory: ./github.io
-   
+
     - name: Copy dist to github.io repo
       run: cp -a project/dist/. github.io/
 
-    - name: Commit and Push to anyunderhood.github.io
+    - name: Commit and Push to mobileunderhood.github.io
       working-directory: ./github.io # Make failable
-      run: | 
+      run: |
         git add .
-        git config --local user.email "???"
-        git config --local user.name "anyunderhood"
-        (git commit -m "Deploy to github.io $(date)"; git push https://$REPO_OWNER:$CUSTOM_GITHUB_TOKEN@github.com/anyunderhood/anyunderhood.github.io) || echo "Nothing to commit"
+        git config --local user.email "ci@github"
+        git config --local user.name "mobileunderhood"
+        (git commit -m "Deploy to github.io $(date)"; git push https://$REPO_OWNER:$CUSTOM_GITHUB_TOKEN@github.com/mobileunderhood/mobileunderhood.github.io) || echo "Nothing to commit"
       env:
         REPO_OWNER: ${{ secrets.repository_owner }}
         GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
