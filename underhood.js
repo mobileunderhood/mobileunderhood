@@ -9,7 +9,7 @@ module.exports = {
     description
   },
   "github": {
-    user: "etolstoy",
+    user: "mobileunderhood",
     repo: "mobileunderhood"
   },
   "curator": {
