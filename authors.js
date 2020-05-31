@@ -1,6 +1,7 @@
 import authorId from './helpers/author-id';
 
 export default authorId([
+    { username: 'RetainCycle', first: '1264821218424885248', post: false },
   // {
   //   username: '' // twitter name of author. if author has no twitter - use underhood name
   //   first: '',  # id of first tweet
