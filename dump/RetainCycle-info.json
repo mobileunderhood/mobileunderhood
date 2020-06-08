@@ -13,52 +13,53 @@
     }
   },
   "protected": false,
-  "followers_count": 4093,
+  "followers_count": 4158,
   "friends_count": 4,
   "listed_count": 44,
   "created_at": "Sat Oct 27 14:48:40 +0000 2018",
-  "favourites_count": 3884,
+  "favourites_count": 3894,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18097,
+  "statuses_count": 18116,
   "lang": null,
   "status": {
-    "created_at": "Mon Jun 08 04:04:02 +0000 2020",
-    "id": 1269842596546973700,
-    "id_str": "1269842596546973697",
-    "text": "8 июня, в Москве 7 утра, в Барнауле 11. Думаю, можно начинать.\nВсем привет. Меня зовут Анна Жаркова. Я Senior iOS/A… https://t.co/QrvT5vz7Pm",
-    "truncated": true,
+    "created_at": "Mon Jun 08 07:42:35 +0000 2020",
+    "id": 1269897595607974000,
+    "id_str": "1269897595607973889",
+    "text": "@hackuna А как же развитие, слава, общественное признание и денюжки?)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/QrvT5vz7Pm",
-          "expanded_url": "https://twitter.com/i/web/status/1269842596546973697",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "hackuna",
+          "name": "ᑭΞŢᑭØҐРÅДНᒈӢ జ్ఞ‌ా МΞРƘŸᑭNŪ",
+          "id": 8576852,
+          "id_str": "8576852",
           "indices": [
-            117,
-            140
+            0,
+            8
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1269895134818295800,
+    "in_reply_to_status_id_str": "1269895134818295809",
+    "in_reply_to_user_id": 8576852,
+    "in_reply_to_user_id_str": "8576852",
+    "in_reply_to_screen_name": "hackuna",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
