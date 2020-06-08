@@ -33182,6 +33182,819 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 04:10:00 +0000 2020",
+      "id": 1269844099483545600,
+      "id_str": "1269844099483545601",
+      "full_text": "План на неделю у нас будет таким:\n\nДень 1. Знакомство. Путь в разработку и немного о моей компании\n\nДень 2. Тренды мобильной разработки. Заодно затронем кросс-платформ vs натив\n\nДень 3. Архитектурный фундамент и принципы разработки. Паттерны. Code-style.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        254
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269842596546973700,
+      "in_reply_to_status_id_str": "1269842596546973697",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 04:11:02 +0000 2020",
+      "id": 1269844360264396800,
+      "id_str": "1269844360264396800",
+      "full_text": "и отношение к этой красоте.\n\nДень 4. Работа в распределенной команде. Тимлидство, менторство. Собеседования.\n\nДень 5. Удаленка до того, как это стало мейнстримом",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        161
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269844099483545600,
+      "in_reply_to_status_id_str": "1269844099483545601",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 04:13:08 +0000 2020",
+      "id": 1269844889174519800,
+      "id_str": "1269844889174519810",
+      "full_text": "День 6. Развитие разработчика вне работы. Активности, митапы, конференции. \n\nДень 7. Выгорание. Как с этим справиться, как избежать. Хобби и все, что дает отдушину",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269844360264396800,
+      "in_reply_to_status_id_str": "1269844360264396800",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 04:37:13 +0000 2020",
+      "id": 1269850946898669600,
+      "id_str": "1269850946898669570",
+      "full_text": "@timofeipl Здорово) У меня несколько коллег из разных городов Сибири тоже перебрались в Краснодар и Ростов",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        106
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "timofeipl",
+            "name": "Tim Pλotnikov",
+            "id": 484358903,
+            "id_str": "484358903",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269843068355821600,
+      "in_reply_to_status_id_str": "1269843068355821568",
+      "in_reply_to_user_id": 484358903,
+      "in_reply_to_user_id_str": "484358903",
+      "in_reply_to_screen_name": "timofeipl",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 04:51:23 +0000 2020",
+      "id": 1269854514812719000,
+      "id_str": "1269854514812719105",
+      "full_text": "День-знакомство. \nНачну, пожалуй, с небольшого рассказа о себе. \nСейчас я синьор-разработчик мобильных приложений в компании Usetech (Москва). Штатный сотрудник, но работаю из дома на удаленке где-то уже год. Занимаюсь как самой разработкой,",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 04:56:25 +0000 2020",
+      "id": 1269855778510422000,
+      "id_str": "1269855778510422016",
+      "full_text": "так и проектированием архитектуры мобильных приложений в проектах. Занимаюсь менторством. Выполняю роль тимлида на проекте - о тимлидстве в целом и его понимании у нас поговорим в чт.  Еще я участвую как докладчик во внутренних митапах нашего корпоративного университета.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269854514812719000,
+      "in_reply_to_status_id_str": "1269854514812719105",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 04:59:45 +0000 2020",
+      "id": 1269856618755358700,
+      "id_str": "1269856618755358720",
+      "full_text": "И планирую выйти из зоны комфорта и перейти к серьезным внешним ивентам). О таких активностях мы поговорим в день 6.\nС недавних пор я наставник и ментор на курсе \"iOS 2.0 advanced\" в OTUS.\nТеперь немного о навыках и компании, в которой я работаю на данный момент)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269855778510422000,
+      "in_reply_to_status_id_str": "1269855778510422016",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 05:15:31 +0000 2020",
+      "id": 1269860586810155000,
+      "id_str": "1269860586810155008",
+      "full_text": "@Steelhog1 Ну так для контраста же!) Надо чередовать)",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        53
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Steelhog1",
+            "name": "Steelhog🐗",
+            "id": 1157579068851859500,
+            "id_str": "1157579068851859456",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269846835402879000,
+      "in_reply_to_status_id_str": "1269846835402878982",
+      "in_reply_to_user_id": 1157579068851859500,
+      "in_reply_to_user_id_str": "1157579068851859456",
+      "in_reply_to_screen_name": "Steelhog1",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 05:30:14 +0000 2020",
+      "id": 1269864289424347100,
+      "id_str": "1269864289424347141",
+      "full_text": "@0leGG Но не у программы курса)",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "0leGG",
+            "name": "Oleg Godovykh",
+            "id": 12462592,
+            "id_str": "12462592",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269863501264085000,
+      "in_reply_to_status_id_str": "1269863501264084993",
+      "in_reply_to_user_id": 12462592,
+      "in_reply_to_user_id_str": "12462592",
+      "in_reply_to_screen_name": "0leGG",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 06:11:38 +0000 2020",
+      "id": 1269874709333717000,
+      "id_str": "1269874709333716992",
+      "full_text": "@0leGG Обязательно) Эта история надолго.",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        40
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "0leGG",
+            "name": "Oleg Godovykh",
+            "id": 12462592,
+            "id_str": "12462592",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269872018167484400,
+      "in_reply_to_status_id_str": "1269872018167484416",
+      "in_reply_to_user_id": 12462592,
+      "in_reply_to_user_id_str": "12462592",
+      "in_reply_to_screen_name": "0leGG",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 06:59:17 +0000 2020",
+      "id": 1269886699468927000,
+      "id_str": "1269886699468926977",
+      "full_text": "@whalemare Обязательно) Это будет в дни 4 и 5.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        46
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "whalemare",
+            "name": "шаурмэ кораллы",
+            "id": 1159433502,
+            "id_str": "1159433502",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269885423331020800,
+      "in_reply_to_status_id_str": "1269885423331020800",
+      "in_reply_to_user_id": 1159433502,
+      "in_reply_to_user_id_str": "1159433502",
+      "in_reply_to_screen_name": "whalemare",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 07:22:30 +0000 2020",
+      "id": 1269892545024266200,
+      "id_str": "1269892545024266240",
+      "full_text": "Итак, сейчас я занимаюсь в основном нативной IOS (Swift/Objective-c) и Android (Kotlin/Java) разработкой. Причем упор на то или иное направление варьируется в зависимости от проекта. Но IOS последнее время выходит существенно больше, чем Android.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        246
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269856618755358700,
+      "in_reply_to_status_id_str": "1269856618755358720",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 07:25:15 +0000 2020",
+      "id": 1269893235058659300,
+      "id_str": "1269893235058659329",
+      "full_text": "Однако, это не отменяет того, что надо выкраивать время на освоение новых навыков, новых фреймворков и SDK. Подробнее о тенденциях мобильной разработки мы поговорим завтра ;) Да-да, будет разговор и о Flutter (куда без него сейчас), и о KMP, и о декларативной разработке",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269892545024266200,
+      "in_reply_to_status_id_str": "1269892545024266240",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 07:31:36 +0000 2020",
+      "id": 1269894833818275800,
+      "id_str": "1269894833818275840",
+      "full_text": "И вообще затронем давний спор, что лучше, кросс-платформа или натив.\nСамой кросс-платформой я занималась еще лет 6 назад. Это был старичок Xamarin, с которым мы периодически продолжаем успешно сотрудничать. Его \"тортность\" мы тоже затронем)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269893235058659300,
+      "in_reply_to_status_id_str": "1269893235058659329",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 07:32:07 +0000 2020",
+      "id": 1269894963132850200,
+      "id_str": "1269894963132850176",
+      "full_text": "@hackuna Мы все почти или уже выгорели, куда торопиться?)",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        57
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hackuna",
+            "name": "ᑭΞŢᑭØҐРÅДНᒈӢ జ్ఞ‌ా МΞРƘŸᑭNŪ",
+            "id": 8576852,
+            "id_str": "8576852",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269894541085151200,
+      "in_reply_to_status_id_str": "1269894541085151232",
+      "in_reply_to_user_id": 8576852,
+      "in_reply_to_user_id_str": "8576852",
+      "in_reply_to_screen_name": "hackuna",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 07:36:15 +0000 2020",
+      "id": 1269896002007445500,
+      "id_str": "1269896002007445504",
+      "full_text": "@mkruglova Да, под обе) У нас многие в компании имеют опыт написания под обе платформы. Правда, уровень варьируется. Часто мы пишем только под одну платформу на одном проекте (несколько человек), а другие сокомандники пишут под другую. Мы стремимся к тому, чтобы люди знали хорошо",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mkruglova",
+            "name": "Мария Круглова",
+            "id": 143717584,
+            "id_str": "143717584",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269894292526502000,
+      "in_reply_to_status_id_str": "1269894292526501888",
+      "in_reply_to_user_id": 143717584,
+      "in_reply_to_user_id_str": "143717584",
+      "in_reply_to_screen_name": "mkruglova",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 07:40:58 +0000 2020",
+      "id": 1269897190345969700,
+      "id_str": "1269897190345969664",
+      "full_text": "@mkruglova по крайней мере, одну платформу. Это лучше, чем владение по верхам всем. Многие приступают к освоению другой технологии, будучи уже миддлами и подходя с толком к процессу овладения материалом. \nКогда ты многостаночник, это делает тебя, безусловно, более востребованным. Также это",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        290
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mkruglova",
+            "name": "Мария Круглова",
+            "id": 143717584,
+            "id_str": "143717584",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269896002007445500,
+      "in_reply_to_status_id_str": "1269896002007445504",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 07:41:50 +0000 2020",
+      "id": 1269897407204073500,
+      "id_str": "1269897407204073472",
+      "full_text": "@mkruglova позволяет тебе гибче подходить к процессу разработки приложения под несколько платформ. Охватить больше нюансов.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        123
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mkruglova",
+            "name": "Мария Круглова",
+            "id": 143717584,
+            "id_str": "143717584",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269897190345969700,
+      "in_reply_to_status_id_str": "1269897190345969664",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 07:42:35 +0000 2020",
+      "id": 1269897595607974000,
+      "id_str": "1269897595607973889",
+      "full_text": "@hackuna А как же развитие, слава, общественное признание и денюжки?)",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        69
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hackuna",
+            "name": "ᑭΞŢᑭØҐРÅДНᒈӢ జ్ఞ‌ా МΞРƘŸᑭNŪ",
+            "id": 8576852,
+            "id_str": "8576852",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269895134818295800,
+      "in_reply_to_status_id_str": "1269895134818295809",
+      "in_reply_to_user_id": 8576852,
+      "in_reply_to_user_id_str": "8576852",
+      "in_reply_to_screen_name": "hackuna",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
