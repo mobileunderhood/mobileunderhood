@@ -21,7 +21,6 @@ jobs:
           trigger: "#update"
       - uses: actions/checkout@v2
         with:
-          repository: ${{ github.base_ref }}
           ref: ${{ github.head_ref }}
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
