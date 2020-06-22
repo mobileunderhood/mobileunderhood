@@ -12629,6 +12629,842 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:01 +0000 2020",
+      "id": 1274808816752832500,
+      "id_str": "1274808816752832517",
+      "full_text": "И теперь о ликвидности. Во многом именно ликвидность будет определять, заработаете вы на опционе или нет.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        105
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:01 +0000 2020",
+      "id": 1274808817793065000,
+      "id_str": "1274808817793064960",
+      "full_text": "После venture round - есть еще много раундов, когда компания допривлекает кэш. Им дают буквенное обозначение, и доходят они до примерно 5й буквы в алфавите. Round A-B-C-D-E",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808816752832500,
+      "in_reply_to_status_id_str": "1274808816752832517",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:01 +0000 2020",
+      "id": 1274808818870993000,
+      "id_str": "1274808818870992899",
+      "full_text": "Ликвидность в контексте - это именно возможность в них поучаствовать, но как и во всём тут есть нюансы. Не всегда компания может дать полностью реализовать сотрудникам имеющиеся опционы по следующей причине.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808817793065000,
+      "in_reply_to_status_id_str": "1274808817793064960",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:02 +0000 2020",
+      "id": 1274808820053794800,
+      "id_str": "1274808820053794817",
+      "full_text": "Предположим мы на раунде B, и компанию оценивают в 500 миллионов, x2 относительно предыдущих 250. x2 кстати не редкость между A-E раундами",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        138
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808818870993000,
+      "in_reply_to_status_id_str": "1274808818870992899",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:02 +0000 2020",
+      "id": 1274808821001728000,
+      "id_str": "1274808821001728000",
+      "full_text": "Раунд и переоценка означает очень грубо три момента. 1. Компания довыпустит акций. 2. Эти акции купят по новой цене за кеш. 3. весь веш пойдет в развитие.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        154
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808820053794800,
+      "in_reply_to_status_id_str": "1274808820053794817",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:02 +0000 2020",
+      "id": 1274808822029320200,
+      "id_str": "1274808822029320194",
+      "full_text": "И вот стафф выводящий опционы, по сути, залазит в суплай всех инвестиций. То есть деньги идут не в развитие, а на вывод. А это может составить довольно большую долю, если многие разом решат повыводить свои мильоны.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        214
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808821001728000,
+      "in_reply_to_status_id_str": "1274808821001728000",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:02 +0000 2020",
+      "id": 1274808823153332200,
+      "id_str": "1274808823153332224",
+      "full_text": "И тут, наверное, есть какая то общепринятая цифра, какую можно отдать на нужды именно выкупа стоков у сотрудников. Какая именно не знаю, но скажем 5%. И эти 5% - они не от всей разницы новая/старая капитализации.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        212
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808822029320200,
+      "in_reply_to_status_id_str": "1274808822029320194",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:03 +0000 2020",
+      "id": 1274808824235536400,
+      "id_str": "1274808824235536387",
+      "full_text": "Когда компания при оценке в 250 на раунде увеличивает капитализацию до 500, это не значит, что кэша именно 250 миллионов. Это запросто может быть и 50, просто инвесторы согласились, что эти 50 будут именно по новой цене соответствующей капу в 500кк.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808823153332200,
+      "in_reply_to_status_id_str": "1274808823153332224",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:03 +0000 2020",
+      "id": 1274808825246335000,
+      "id_str": "1274808825246334977",
+      "full_text": "Так вот 5% от гораздо меньшей суммы. Даже если от 50% - то это 6.25kk. А на момент таких раундов у компании уже может быть сотни сотрудников. А это хорошо если по паре десятков тысяч на человека.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        195
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808824235536400,
+      "in_reply_to_status_id_str": "1274808824235536387",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:03 +0000 2020",
+      "id": 1274808826232017000,
+      "id_str": "1274808826232016897",
+      "full_text": "И вот только если компания заморочится, она может провести дополнительный peer-to-peer раунд для более маленьких инвесторов. Особенность вышеописанного раунда в том, что туда пускают не только лишь всех.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        203
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808825246335000,
+      "in_reply_to_status_id_str": "1274808825246334977",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:03 +0000 2020",
+      "id": 1274808827288916000,
+      "id_str": "1274808827288915968",
+      "full_text": "А вот на дополнительном, более мелком раунде, если есть деманд среди более мелких инвесторов, можно организовать продажу с гораздо меньшим ограничением ликвидности. И делает так компания или нет - это тоже очень важный момент, который стоит выяснять.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808826232017000,
+      "in_reply_to_status_id_str": "1274808826232016897",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:04 +0000 2020",
+      "id": 1274808828438118400,
+      "id_str": "1274808828438118400",
+      "full_text": "Выяснять можно просто спросив HR. А можно провести ресерч по истории продаж. Эта информация во многих странах полностью публичная, хоть и с существенной задержкой.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808827288916000,
+      "in_reply_to_status_id_str": "1274808827288915968",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 20:58:04 +0000 2020",
+      "id": 1274808829461528600,
+      "id_str": "1274808829461528577",
+      "full_text": "Это очень важно, потому что часто возможность вывести в нужный момент гораздо важней чем рост, который может и легко развернуться в обратную сторону. Потому что такие компании в целом чаще растут, чем нет, вплоть до самого последнего момента краха.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274808828438118400,
+      "in_reply_to_status_id_str": "1274808828438118400",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 21:05:29 +0000 2020",
+      "id": 1274810696774176800,
+      "id_str": "1274810696774176768",
+      "full_text": "Ну и пару общих слов. Я вообще считаю, что опционы в глобальном смысле, очень хороший инструмент профит шейринга для компаний. А профит шейринг - это вообще крайне полезная штука для глобальной экономики и инвестиционного климата.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        230
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 21:05:29 +0000 2020",
+      "id": 1274810697927573500,
+      "id_str": "1274810697927573504",
+      "full_text": "Когда в успешной компании 1 человек становится миллиардером, ему очень легко сделать сотню другую людей миллионерами, из которых многие пойдут на этот капитал делать другие проекты, и, может, единицы повторят этот круг.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274810696774176800,
+      "in_reply_to_status_id_str": "1274810696774176768",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 21:05:30 +0000 2020",
+      "id": 1274810699005526000,
+      "id_str": "1274810699005526020",
+      "full_text": "Только нужно отчетливо понимать, как это всё работает, и чем вы рискуете. Вспоминая проседание под рынок ради опционов - это на самом деле не сильно частое явление. Чаще всего зарплата остается рыночной. Кроме самых первых может этапов, где и риски и профит выше.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274810697927573500,
+      "in_reply_to_status_id_str": "1274810697927573504",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 21:05:30 +0000 2020",
+      "id": 1274810700049920000,
+      "id_str": "1274810700049920002",
+      "full_text": "И получается, что рисковать, соглашаясь на опционы одной компании, приходится чаще всего только возможностью получить опционы другой.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        133
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274810699005526000,
+      "in_reply_to_status_id_str": "1274810699005526020",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 21:05:30 +0000 2020",
+      "id": 1274810701014581200,
+      "id_str": "1274810701014581262",
+      "full_text": "И возвращаясь к профит шейрингу. Это один из главных факторов того, что сделало Кремниевую Долину эпицентром стартап мира. И в целом, я наблюдаю, что стартап климат в Европе и UK начинает в этом плане разогреваться.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        215
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274810700049920000,
+      "in_reply_to_status_id_str": "1274810700049920002",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 21:05:30 +0000 2020",
+      "id": 1274810702306390000,
+      "id_str": "1274810702306390017",
+      "full_text": "Есть уже целые компании, которые предоставляют услуги трекинга стоков и опционов, типа Carta. Есть компании, которые трекают стартапы, их стоимость и раунды, типа Crunchbase. Есть поисковики вакансий с акцентом на equities и shares типа Angel List.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274810701014581200,
+      "in_reply_to_status_id_str": "1274810701014581262",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 21:05:31 +0000 2020",
+      "id": 1274810703371808800,
+      "id_str": "1274810703371808770",
+      "full_text": "В многих Европейских государствах лобируется схемы облегчающие налоги на опционы.  И различные схемы протекции держателей.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274810702306390000,
+      "in_reply_to_status_id_str": "1274810702306390017",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 21:05:31 +0000 2020",
+      "id": 1274810704319713300,
+      "id_str": "1274810704319713280",
+      "full_text": "И вот еще хорошая статья подобные схемы помогают генерировать благосостояние экономики. https://t.co/uMCn9n4XFB",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uMCn9n4XFB",
+            "expanded_url": "https://www.bloomberg.com/news/features/2019-10-02/why-it-s-so-hard-for-entrepreneurs-to-get-really-rich-in-europe",
+            "display_url": "bloomberg.com/news/features/…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274810703371808800,
+      "in_reply_to_status_id_str": "1274810703371808770",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 21 21:22:51 +0000 2020",
+      "id": 1274815067129876500,
+      "id_str": "1274815067129876480",
+      "full_text": "Ну вот и всё) Спасибо всем, кто читал и отвечал) \nС вами был @yatsinar, если кому интересно почитать про стартап инсайды, Лондон и разработку - то в моём твиттере этого нет лол. Но если вырвусь из замкнутого лупа \"нет подписчиков - не пишу - нет подписчиков \" то может будет)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Yatsinar",
+            "name": "Roman Iatcyna",
+            "id": 158450023,
+            "id_str": "158450023",
+            "indices": [
+              61,
+              70
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

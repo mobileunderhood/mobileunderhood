@@ -13,42 +13,63 @@
     }
   },
   "protected": false,
-  "followers_count": 4231,
+  "followers_count": 4233,
   "friends_count": 5,
   "listed_count": 46,
   "created_at": "Sat Oct 27 14:48:40 +0000 2018",
-  "favourites_count": 4077,
+  "favourites_count": 4078,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 18959,
+  "statuses_count": 18981,
   "lang": null,
   "status": {
-    "created_at": "Sun Jun 21 17:13:36 +0000 2020",
-    "id": 1274752341133189000,
-    "id_str": "1274752341133189120",
-    "text": "В таком сценарии математика гораздо более приятная и оказаться в плюсе шансов сильно больше.",
-    "truncated": false,
+    "created_at": "Sun Jun 21 21:22:51 +0000 2020",
+    "id": 1274815067129876500,
+    "id_str": "1274815067129876480",
+    "text": "Ну вот и всё) Спасибо всем, кто читал и отвечал) \nС вами был @yatsinar, если кому интересно почитать про стартап ин… https://t.co/zjKerq8T2Q",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "Yatsinar",
+          "name": "Roman Iatcyna",
+          "id": 158450023,
+          "id_str": "158450023",
+          "indices": [
+            61,
+            70
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zjKerq8T2Q",
+          "expanded_url": "https://twitter.com/i/web/status/1274815067129876480",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1274752339954598000,
-    "in_reply_to_status_id_str": "1274752339954597889",
-    "in_reply_to_user_id": 1056195982340358100,
-    "in_reply_to_user_id_str": "1056195982340358150",
-    "in_reply_to_screen_name": "mobileunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
