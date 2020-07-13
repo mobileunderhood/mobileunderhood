@@ -3,9 +3,9 @@
   "id_str": "1056195982340358150",
   "name": "Мобильный разработчик",
   "screen_name": "mobileunderhood",
-  "location": "Moscow",
+  "location": "",
   "profile_location": null,
-  "description": "Vasya Drobushkóv, Android Developer\n@krossovochkin",
+  "description": "Юра, Разработчик в Mamba",
   "url": "https://t.co/YNMNN8BK9W",
   "entities": {
     "url": {
@@ -14,10 +14,7 @@
           "url": "https://t.co/YNMNN8BK9W",
           "expanded_url": "https://mobileunderhood.github.io",
           "display_url": "mobileunderhood.github.io",
-          "indices": [
-            0,
-            23
-          ]
+          "indices": [0, 23]
         }
       ]
     },
@@ -52,10 +49,7 @@
           "url": "https://t.co/hjgrA7Illv",
           "expanded_url": "https://twitter.com/i/web/status/1282540163600732162",
           "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
+          "indices": [117, 140]
         }
       ]
     },
