@@ -1,0 +1,173 @@
+{
+  "id": 1056195982340358100,
+  "id_str": "1056195982340358150",
+  "name": "Мобильный разработчик",
+  "screen_name": "mobileunderhood",
+  "location": "Novosibirsk, Russia",
+  "profile_location": {
+    "id": "679cf8e8e64889c3",
+    "url": "https://api.twitter.com/1.1/geo/id/679cf8e8e64889c3.json",
+    "place_type": "unknown",
+    "name": "Novosibirsk, Russia",
+    "full_name": "Novosibirsk, Russia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Сергей Гречишников, Android Developer at Fullstack\n@srggrch",
+  "url": "https://t.co/YNMNN8BK9W",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/YNMNN8BK9W",
+          "expanded_url": "https://mobileunderhood.github.io",
+          "display_url": "mobileunderhood.github.io",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 4357,
+  "friends_count": 5,
+  "listed_count": 49,
+  "created_at": "Sat Oct 27 14:48:40 +0000 2018",
+  "favourites_count": 4234,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 20344,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Aug 02 15:38:05 +0000 2020",
+    "id": 1289948593608986600,
+    "id_str": "1289948593608986629",
+    "text": "RT @q210: @mobileunderhood взял себе Oculus Quest,еще когда он только вышел, до сих пор включаю чаще игрового компа. Он дешевле hi-end шлем…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "q210",
+          "name": "Tim [q210]",
+          "id": 69953601,
+          "id_str": "69953601",
+          "indices": [
+            3,
+            8
+          ]
+        },
+        {
+          "screen_name": "mobileunderhood",
+          "name": "Мобильный разработчик",
+          "id": 1056195982340358100,
+          "id_str": "1056195982340358150",
+          "indices": [
+            10,
+            26
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Aug 02 14:49:30 +0000 2020",
+      "id": 1289936368240676900,
+      "id_str": "1289936368240676865",
+      "text": "@mobileunderhood взял себе Oculus Quest,еще когда он только вышел, до сих пор включаю чаще игрового компа. Он дешев… https://t.co/Sf2vi45I3n",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mobileunderhood",
+            "name": "Мобильный разработчик",
+            "id": 1056195982340358100,
+            "id_str": "1056195982340358150",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Sf2vi45I3n",
+            "expanded_url": "https://twitter.com/i/web/status/1289936368240676865",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1289933199917760500,
+      "in_reply_to_status_id_str": "1289933199917760513",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1287606798921457664/ySYsSNMB_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287606798921457664/ySYsSNMB_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056195982340358150/1595219504",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}
