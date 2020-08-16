@@ -1,0 +1,114 @@
+{
+  "id": 1056195982340358100,
+  "id_str": "1056195982340358150",
+  "name": "Мобильный разработчик",
+  "screen_name": "mobileunderhood",
+  "location": "Ростов-На-Дону",
+  "profile_location": null,
+  "description": "Миша Левченко, Android разработчик @ Авто.ру, Developer Memes Expert в https://t.co/WajAC6bPXQ\n\n@TheMishkun",
+  "url": "https://t.co/YNMNN8BK9W",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/YNMNN8BK9W",
+          "expanded_url": "https://mobileunderhood.github.io",
+          "display_url": "mobileunderhood.github.io",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/WajAC6bPXQ",
+          "expanded_url": "http://t.me/podvedro",
+          "display_url": "t.me/podvedro",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 4434,
+  "friends_count": 7,
+  "listed_count": 49,
+  "created_at": "Sat Oct 27 14:48:40 +0000 2018",
+  "favourites_count": 4383,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 20855,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Aug 16 18:00:54 +0000 2020",
+    "id": 1295057964756279300,
+    "id_str": "1295057964756279312",
+    "text": "Раскладываем чаепитие по полочкам https://t.co/9iJE5upqS2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9iJE5upqS2",
+          "expanded_url": "https://twitter.com/mobileunderhood/status/1295008176996261889?s=19",
+          "display_url": "twitter.com/mobileunderhoo…",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1294629420259512300,
+    "in_reply_to_status_id_str": "1294629420259512321",
+    "in_reply_to_user_id": 1056195982340358100,
+    "in_reply_to_user_id_str": "1056195982340358150",
+    "in_reply_to_screen_name": "mobileunderhood",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1295008176996262000,
+    "quoted_status_id_str": "1295008176996261889",
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1292716979623809024/7eVMnUlK_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292716979623809024/7eVMnUlK_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056195982340358150/1597042721",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}
