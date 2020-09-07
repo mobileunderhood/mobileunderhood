@@ -1,0 +1,113 @@
+{
+  "id": 1056195982340358100,
+  "id_str": "1056195982340358150",
+  "name": "Мобильный разработчик",
+  "screen_name": "mobileunderhood",
+  "location": "Торонто, Канада",
+  "profile_location": null,
+  "description": "Алексей Соболевский, безработный iOS разраб",
+  "url": "https://t.co/YNMNN8BK9W",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/YNMNN8BK9W",
+          "expanded_url": "https://mobileunderhood.github.io",
+          "display_url": "mobileunderhood.github.io",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 4506,
+  "friends_count": 6,
+  "listed_count": 50,
+  "created_at": "Sat Oct 27 14:48:40 +0000 2018",
+  "favourites_count": 4620,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 21645,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Sep 06 16:13:01 +0000 2020",
+    "id": 1302640961823092700,
+    "id_str": "1302640961823092736",
+    "text": "@xd720p Все так. Эта неделя застала меня в самый разгар переезда. Как только выдавалась свободная минутка - писал з… https://t.co/gq1WrYANvJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "xd720p",
+          "name": "Petr CauseLove",
+          "id": 194668428,
+          "id_str": "194668428",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gq1WrYANvJ",
+          "expanded_url": "https://twitter.com/i/web/status/1302640961823092736",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1302593382783606800,
+    "in_reply_to_status_id_str": "1302593382783606790",
+    "in_reply_to_user_id": 194668428,
+    "in_reply_to_user_id_str": "194668428",
+    "in_reply_to_screen_name": "xd720p",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1300424956115931136/7Zux48oH_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300424956115931136/7Zux48oH_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056195982340358150/1598245576",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}
