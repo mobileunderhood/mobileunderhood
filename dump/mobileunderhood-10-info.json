@@ -1,0 +1,102 @@
+{
+  "id": 1056195982340358100,
+  "id_str": "1056195982340358150",
+  "name": "Мобильный разработчик",
+  "screen_name": "mobileunderhood",
+  "location": "Минск, Беларусь",
+  "profile_location": null,
+  "description": "Флоп Бутылкин, мобильный разработчик, Loóna team @loona_app",
+  "url": "https://t.co/YNMNN8BK9W",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/YNMNN8BK9W",
+          "expanded_url": "https://mobileunderhood.github.io",
+          "display_url": "mobileunderhood.github.io",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 4579,
+  "friends_count": 6,
+  "listed_count": 50,
+  "created_at": "Sat Oct 27 14:48:40 +0000 2018",
+  "favourites_count": 4658,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 21895,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Oct 04 15:49:50 +0000 2020",
+    "id": 1312781986373808000,
+    "id_str": "1312781986373808129",
+    "text": "Последний твит Флопа Бутылкина.\n\nВ активном отдыхе главное вовремя остановится. Так чтобы отдыхать от отдыха не при… https://t.co/c9Wbt9aZkT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/c9Wbt9aZkT",
+          "expanded_url": "https://twitter.com/i/web/status/1312781986373808129",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1312680495793213400,
+    "in_reply_to_status_id_str": "1312680495793213441",
+    "in_reply_to_user_id": 1056195982340358100,
+    "in_reply_to_user_id_str": "1056195982340358150",
+    "in_reply_to_screen_name": "mobileunderhood",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1310472875397259264/EI0hgPBf_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310472875397259264/EI0hgPBf_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056195982340358150/1601276056",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}
