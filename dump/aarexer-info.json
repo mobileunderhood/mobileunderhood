@@ -1,0 +1,104 @@
+{
+  "id": 1056195982340358100,
+  "id_str": "1056195982340358150",
+  "name": "Мобильный разработчик",
+  "screen_name": "mobileunderhood",
+  "location": "Москва",
+  "profile_location": null,
+  "description": "Александр Кучук\nTelegram: aarexer\nНе мобильный галерный гребец\nTwitter: @aarexer\nInstagram: такой же",
+  "url": "https://t.co/np5yyKi7zD",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/np5yyKi7zD",
+          "expanded_url": "http://mobileunderhood.ru",
+          "display_url": "mobileunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 5051,
+  "friends_count": 12,
+  "listed_count": 52,
+  "created_at": "Sat Oct 27 14:48:40 +0000 2018",
+  "favourites_count": 5571,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 24604,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Nov 22 19:09:37 +0000 2020",
+    "id": 1330589268272672800,
+    "id_str": "1330589268272672768",
+    "text": "Вы тоже там не болейте! https://t.co/Faz9ezXMqx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Faz9ezXMqx",
+          "expanded_url": "https://twitter.com/crivlaldo/status/1330587036965859328",
+          "display_url": "twitter.com/crivlaldo/stat…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1330587036965859300,
+    "quoted_status_id_str": "1330587036965859328",
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1328208845030776832/yMerfTlb_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328208845030776832/yMerfTlb_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056195982340358150/1604361792",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}
