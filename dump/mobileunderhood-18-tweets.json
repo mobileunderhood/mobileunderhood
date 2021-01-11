@@ -1,0 +1,2028 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 04 07:16:32 +0000 2021",
+      "id": 1345992494937497600,
+      "id_str": "1345992494937497600",
+      "full_text": "Всем привет. Меня зовут Никита. В компаний из 15 человек, я и двоя других iOS разработчиков пилим приложения для релаксации и фитнеса.\nПроработал 5 лет в Москве, 1 год в Канаде, потом снова вернулся в Москву ради девушки.\n*Извиняюсь за корявую грамматику - Русский мой второй язык",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 81,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 07:17:52 +0000 2021",
+      "id": 1345992829638746000,
+      "id_str": "1345992829638746112",
+      "full_text": "Расписание на всю неделю:\n- не скажу",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        36
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 52,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 07:23:17 +0000 2021",
+      "id": 1345994191961264000,
+      "id_str": "1345994191961264129",
+      "full_text": "В нашей компаний дизайнеры используют Figma. Для реализаций точных лейблов как в дизайне, написали свой класс. Если кому интересно:\nhttps://t.co/nXqyPv67iX",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        155
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nXqyPv67iX",
+            "expanded_url": "https://github.com/NI92/FigmaLabel",
+            "display_url": "github.com/NI92/FigmaLabel",
+            "indices": [
+              132,
+              155
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 07:26:06 +0000 2021",
+      "id": 1345994903285870600,
+      "id_str": "1345994903285870594",
+      "full_text": "Кто чем пользуется для реализаций дизайна?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        42
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 07:29:10 +0000 2021",
+      "id": 1345995672454103000,
+      "id_str": "1345995672454103040",
+      "full_text": "@aarexer Познакомился через Tinder, ржали весь вечер - трезвые 🙃, понял моя половинка, завели котов",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        99
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aarexer",
+            "name": "Александр Кучук",
+            "id": 3834020309,
+            "id_str": "3834020309",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1345993150058393600,
+      "in_reply_to_status_id_str": "1345993150058393601",
+      "in_reply_to_user_id": 3834020309,
+      "in_reply_to_user_id_str": "3834020309",
+      "in_reply_to_screen_name": "aarexer",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 55,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 07:32:43 +0000 2021",
+      "id": 1345996564997828600,
+      "id_str": "1345996564997828609",
+      "full_text": "@akaDuality Ага, inspector генерирует код но не которые параметры не удобно настраивать - получаются не четкости",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        112
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "akaDuality",
+            "name": "Михаил Рубанов",
+            "id": 1101242563,
+            "id_str": "1101242563",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1345995442325246000,
+      "in_reply_to_status_id_str": "1345995442325245953",
+      "in_reply_to_user_id": 1101242563,
+      "in_reply_to_user_id_str": "1101242563",
+      "in_reply_to_screen_name": "akaDuality",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 11:19:19 +0000 2021",
+      "id": 1346053593644867600,
+      "id_str": "1346053593644867586",
+      "full_text": "@ad1Dima Английский)",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        20
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ad1Dima",
+            "name": "Dmitry Adodin",
+            "id": 31452225,
+            "id_str": "31452225",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1345993263157813200,
+      "in_reply_to_status_id_str": "1345993263157813248",
+      "in_reply_to_user_id": 31452225,
+      "in_reply_to_user_id_str": "31452225",
+      "in_reply_to_screen_name": "ad1Dima",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 14:07:58 +0000 2021",
+      "id": 1346096034783633400,
+      "id_str": "1346096034783633409",
+      "full_text": "@subdan_ Интересная проблема. Сделал пуш - скажи что думаешь.\nПробовал через `override func drawText(in rect: CGRect)` но коряво выходило. Сделал через `baselineOffset`. Чуть потестил. Подозрение где то может быть косяк. Если что, есть библа “BonMot” - там очень круто сделали",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "subdan_",
+            "name": "Daniil Subbotin",
+            "id": 1675366938,
+            "id_str": "1675366938",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346018467825201200,
+      "in_reply_to_status_id_str": "1346018467825201155",
+      "in_reply_to_user_id": 1675366938,
+      "in_reply_to_user_id_str": "1675366938",
+      "in_reply_to_screen_name": "subdan_",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 14:12:07 +0000 2021",
+      "id": 1346097077663760400,
+      "id_str": "1346097077663760386",
+      "full_text": "@subdan_ Нашел баг - нужно что бы font size был половину `lineHeight` иначе не четко попадает/равняется. Типо lineHeight = 64 а font size 32. Потом починю",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        154
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "subdan_",
+            "name": "Daniil Subbotin",
+            "id": 1675366938,
+            "id_str": "1675366938",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346018467825201200,
+      "in_reply_to_status_id_str": "1346018467825201155",
+      "in_reply_to_user_id": 1675366938,
+      "in_reply_to_user_id_str": "1675366938",
+      "in_reply_to_screen_name": "subdan_",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 15:16:08 +0000 2021",
+      "id": 1346113190481043500,
+      "id_str": "1346113190481043457",
+      "full_text": "@subdan_ Красавчики)",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        20
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "subdan_",
+            "name": "Daniil Subbotin",
+            "id": 1675366938,
+            "id_str": "1675366938",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346109897809797000,
+      "in_reply_to_status_id_str": "1346109897809797121",
+      "in_reply_to_user_id": 1675366938,
+      "in_reply_to_user_id_str": "1675366938",
+      "in_reply_to_screen_name": "subdan_",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 15:25:49 +0000 2021",
+      "id": 1346115627958886400,
+      "id_str": "1346115627958886401",
+      "full_text": "@MBayaliev Я самоучка. Когда начинал, 1 месяц выделил основом: смотрел Objective-C видео туториал от Simon Allardice. Он покрыл что такое OOP, фундаментальности Objective-C и Core Data.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        185
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MBayaliev",
+            "name": "Mar Bayaliev",
+            "id": 2290971972,
+            "id_str": "2290971972",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346005276466565000,
+      "in_reply_to_status_id_str": "1346005276466565120",
+      "in_reply_to_user_id": 2290971972,
+      "in_reply_to_user_id_str": "2290971972",
+      "in_reply_to_screen_name": "MBayaliev",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Jan 04 15:31:11 +0000 2021",
+      "id": 1346116974481453000,
+      "id_str": "1346116974481453058",
+      "full_text": "@MBayaliev После этого отправлял резюме везде за супер минимум ставку (на дорогу и чай). Name of the game “практика”. Нужно быстрей выйти и начать набивать руку. Только через стресс и страдание настоящих проектов ты будешь расти со скоростью ракеты.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MBayaliev",
+            "name": "Mar Bayaliev",
+            "id": 2290971972,
+            "id_str": "2290971972",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346005276466565000,
+      "in_reply_to_status_id_str": "1346005276466565120",
+      "in_reply_to_user_id": 2290971972,
+      "in_reply_to_user_id_str": "2290971972",
+      "in_reply_to_screen_name": "MBayaliev",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 15:31:28 +0000 2021",
+      "id": 1346117046497665000,
+      "id_str": "1346117046497665024",
+      "full_text": "@MBayaliev Сроки проектов заставляют приоритизировать, быстро думать и учится \n\n+ читал разные книги про темы которые не знал (всегда из какого нибудь top 10 списка).",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        166
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MBayaliev",
+            "name": "Mar Bayaliev",
+            "id": 2290971972,
+            "id_str": "2290971972",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346005276466565000,
+      "in_reply_to_status_id_str": "1346005276466565120",
+      "in_reply_to_user_id": 2290971972,
+      "in_reply_to_user_id_str": "2290971972",
+      "in_reply_to_screen_name": "MBayaliev",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 19:29:38 +0000 2021",
+      "id": 1346176983189901300,
+      "id_str": "1346176983189901313",
+      "full_text": "Вот кастомный text view если у кого дизайнер такой “попросит”:\nhttps://t.co/7OQZLe5kKf https://t.co/vVOS6urjA4",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        86
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7OQZLe5kKf",
+            "expanded_url": "https://github.com/NI92/ColorBackgroundTextView",
+            "display_url": "github.com/NI92/ColorBack…",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1346176978500595700,
+            "id_str": "1346176978500595712",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eq6U1GBWMAAnUT2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eq6U1GBWMAAnUT2.jpg",
+            "url": "https://t.co/vVOS6urjA4",
+            "display_url": "pic.twitter.com/vVOS6urjA4",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1346176983189901313/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 529,
+                "h": 162,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 529,
+                "h": 162,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 529,
+                "h": 162,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1346176978500595700,
+            "id_str": "1346176978500595712",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eq6U1GBWMAAnUT2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eq6U1GBWMAAnUT2.jpg",
+            "url": "https://t.co/vVOS6urjA4",
+            "display_url": "pic.twitter.com/vVOS6urjA4",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1346176983189901313/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 529,
+                "h": 162,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 529,
+                "h": 162,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 529,
+                "h": 162,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 19:41:00 +0000 2021",
+      "id": 1346179845424877600,
+      "id_str": "1346179845424877572",
+      "full_text": "@imgnta Все благодаря родителям. Английский авто-учил в самой среде/школе. Но для Русского отправляли по воскресением в Русскую православную церковь. Отбило веру + помогло пару слов не забыть. В 21 приехал в Москву и началось. 6 лет спустя улучшил произношение и словарный запас набрал.",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        286
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "imgnta",
+            "name": "Iovanna Mi",
+            "id": 396746598,
+            "id_str": "396746598",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346163037259128800,
+      "in_reply_to_status_id_str": "1346163037259128833",
+      "in_reply_to_user_id": 396746598,
+      "in_reply_to_user_id_str": "396746598",
+      "in_reply_to_screen_name": "imgnta",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 19:43:05 +0000 2021",
+      "id": 1346180367523442700,
+      "id_str": "1346180367523442689",
+      "full_text": "@imgnta Теперь в первые 2 минуты не понять разницы между мной и местными. Но чем дольше буду говорить чем станет понятней - я либо дурак, либо не местный. Мне приходится предупреждать.",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        184
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "imgnta",
+            "name": "Iovanna Mi",
+            "id": 396746598,
+            "id_str": "396746598",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346163037259128800,
+      "in_reply_to_status_id_str": "1346163037259128833",
+      "in_reply_to_user_id": 396746598,
+      "in_reply_to_user_id_str": "396746598",
+      "in_reply_to_screen_name": "imgnta",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 19:43:20 +0000 2021",
+      "id": 1346180430861631500,
+      "id_str": "1346180430861631489",
+      "full_text": "@imgnta Нужно читать, писать и говорить. И много",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        48
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "imgnta",
+            "name": "Iovanna Mi",
+            "id": 396746598,
+            "id_str": "396746598",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346163037259128800,
+      "in_reply_to_status_id_str": "1346163037259128833",
+      "in_reply_to_user_id": 396746598,
+      "in_reply_to_user_id_str": "396746598",
+      "in_reply_to_screen_name": "imgnta",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 19:49:33 +0000 2021",
+      "id": 1346181994653298700,
+      "id_str": "1346181994653298691",
+      "full_text": "@imgnta Да, оба говорили. И всегда готовили Русскую еду - пельмени и борщ (можно чередовать). Ну и традиций почитали + много друзей таких же как я. Обсуждали разницу между Русскими и Канадцами. Потом футбол)",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "imgnta",
+            "name": "Iovanna Mi",
+            "id": 396746598,
+            "id_str": "396746598",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346180644267823000,
+      "in_reply_to_status_id_str": "1346180644267823105",
+      "in_reply_to_user_id": 396746598,
+      "in_reply_to_user_id_str": "396746598",
+      "in_reply_to_screen_name": "imgnta",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 19:57:30 +0000 2021",
+      "id": 1346183998192709600,
+      "id_str": "1346183998192709632",
+      "full_text": "@JuriyReutskiy Последние пол года активно сидим над Youth. Сделали overhaul верстки/анимаций + куча нового функционала. Вот ссылка если интересно:\nhttps://t.co/E0tAfeDzwa",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JuriyReutskiy",
+            "name": "генерал пряник",
+            "id": 221481123,
+            "id_str": "221481123",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/E0tAfeDzwa",
+            "expanded_url": "https://apps.apple.com/ru/app/youth-home-workout-self-care/id1481864197",
+            "display_url": "apps.apple.com/ru/app/youth-h…",
+            "indices": [
+              147,
+              170
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346180997507928000,
+      "in_reply_to_status_id_str": "1346180997507928064",
+      "in_reply_to_user_id": 221481123,
+      "in_reply_to_user_id_str": "221481123",
+      "in_reply_to_screen_name": "JuriyReutskiy",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 20:13:37 +0000 2021",
+      "id": 1346188054126588000,
+      "id_str": "1346188054126587905",
+      "full_text": "@MBayaliev Пытался мини проекты с нуля. На пример отобразить полученный JSON в таблицы. То что я думал компания будет требовать знать как минимум. Пилил 2D игры на SpriteKit после работы. Много всякого после работы делал. Хотел быстрей научится",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        244
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MBayaliev",
+            "name": "Mar Bayaliev",
+            "id": 2290971972,
+            "id_str": "2290971972",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1346185603533201400,
+      "in_reply_to_status_id_str": "1346185603533201410",
+      "in_reply_to_user_id": 2290971972,
+      "in_reply_to_user_id_str": "2290971972",
+      "in_reply_to_screen_name": "MBayaliev",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 20:15:06 +0000 2021",
+      "id": 1346188424798208000,
+      "id_str": "1346188424798208000",
+      "full_text": "@MBayaliev Ответ на вопрос: частично?",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        37
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MBayaliev",
+            "name": "Mar Bayaliev",
+            "id": 2290971972,
+            "id_str": "2290971972",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1346185603533201400,
+      "in_reply_to_status_id_str": "1346185603533201410",
+      "in_reply_to_user_id": 2290971972,
+      "in_reply_to_user_id_str": "2290971972",
+      "in_reply_to_screen_name": "MBayaliev",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 20:22:46 +0000 2021",
+      "id": 1346190355268595700,
+      "id_str": "1346190355268595714",
+      "full_text": "@duglasher Это специально. Добавлю экстра функционал завтра",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        59
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "duglasher",
+            "name": "Artsiom",
+            "id": 413329255,
+            "id_str": "413329255",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1346180829710590000,
+      "in_reply_to_status_id_str": "1346180829710589952",
+      "in_reply_to_user_id": 413329255,
+      "in_reply_to_user_id_str": "413329255",
+      "in_reply_to_screen_name": "duglasher",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 20:35:41 +0000 2021",
+      "id": 1346193608496586800,
+      "id_str": "1346193608496586752",
+      "full_text": "@JuriyReutskiy Временная пауза. Скоро back to work",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        50
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JuriyReutskiy",
+            "name": "генерал пряник",
+            "id": 221481123,
+            "id_str": "221481123",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1346192106545684500,
+      "in_reply_to_status_id_str": "1346192106545684486",
+      "in_reply_to_user_id": 221481123,
+      "in_reply_to_user_id_str": "221481123",
+      "in_reply_to_screen_name": "JuriyReutskiy",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 05 10:59:15 +0000 2021",
+      "id": 1346410928217215000,
+      "id_str": "1346410928217214978",
+      "full_text": "Какую платформу используйте для локализаций ваших приложений?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        61
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 05 11:01:07 +0000 2021",
+      "id": 1346411400634237000,
+      "id_str": "1346411400634236932",
+      "full_text": "Ребя, если выбрали Other, напишите название сервиса здесь плиз 👊",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        64
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1346410928217215000,
+      "in_reply_to_status_id_str": "1346410928217214978",
+      "in_reply_to_user_id": 1056195982340358100,
+      "in_reply_to_user_id_str": "1056195982340358150",
+      "in_reply_to_screen_name": "mobileunderhood",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 05 11:29:37 +0000 2021",
+      "id": 1346418571581255700,
+      "id_str": "1346418571581255685",
+      "full_text": "@egorka А какое количество языков?\nИ как переводите?",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        52
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "egorka",
+            "name": "Egor",
+            "id": 1930391,
+            "id_str": "1930391",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1346411684701892600,
+      "in_reply_to_status_id_str": "1346411684701892609",
+      "in_reply_to_user_id": 1930391,
+      "in_reply_to_user_id_str": "1930391",
+      "in_reply_to_screen_name": "egorka",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 05 11:30:56 +0000 2021",
+      "id": 1346418901652041700,
+      "id_str": "1346418901652041729",
+      "full_text": "@igrekde Cathtemer servos епты",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        30
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1346417001456087000,
+      "in_reply_to_status_id_str": "1346417001456087040",
+      "in_reply_to_user_id": 181697598,
+      "in_reply_to_user_id_str": "181697598",
+      "in_reply_to_screen_name": "igrekde",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Jan 05 13:42:28 +0000 2021",
+      "id": 1346452003958960000,
+      "id_str": "1346452003958960131",
+      "full_text": "Insider digest: Lokalise нам обходится $230 в месяц. $23 за слот (у нас их 10). 1 из слотов имеет +10,000 ключей. 1 ключ содержит текст для 11 разных языков. Поддерживается plurals. Пользуемся больше года для мобильных прил + backend. Меняешь текст а новый билд не нужен",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 05 14:17:40 +0000 2021",
+      "id": 1346460864522694700,
+      "id_str": "1346460864522694656",
+      "full_text": "@vsratosIav Как долго это пилили? Сколько разработчиков работали над системой? Что было самое гиморное реализовать?",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vsratosIav",
+            "name": "De Vliegende Hollander",
+            "id": 1299658162979643400,
+            "id_str": "1299658162979643392",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1346456116176285700,
+      "in_reply_to_status_id_str": "1346456116176285697",
+      "in_reply_to_user_id": 1299658162979643400,
+      "in_reply_to_user_id_str": "1299658162979643392",
+      "in_reply_to_screen_name": "vsratosIav",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 05 15:04:51 +0000 2021",
+      "id": 1346472736655196200,
+      "id_str": "1346472736655196160",
+      "full_text": "@vsratosIav Круто. Хочу своим предложить также сделать",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        54
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vsratosIav",
+            "name": "De Vliegende Hollander",
+            "id": 1299658162979643400,
+            "id_str": "1299658162979643392",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346456116176285700,
+      "in_reply_to_status_id_str": "1346456116176285697",
+      "in_reply_to_user_id": 1299658162979643400,
+      "in_reply_to_user_id_str": "1299658162979643392",
+      "in_reply_to_screen_name": "vsratosIav",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 05 15:56:30 +0000 2021",
+      "id": 1346485736023974000,
+      "id_str": "1346485736023973893",
+      "full_text": "@SmartFoxDev @vsratosIav У нас значительно расширится количество проектов в будощем. Подсчитаем если long term имеет смысл свое развернуть",
+      "truncated": false,
+      "display_text_range": [
+        25,
+        138
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SmartFoxDev",
+            "name": "Valerii Kuznietsov",
+            "id": 258280288,
+            "id_str": "258280288",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "vsratosIav",
+            "name": "De Vliegende Hollander",
+            "id": 1299658162979643400,
+            "id_str": "1299658162979643392",
+            "indices": [
+              13,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1346485002574377000,
+      "in_reply_to_status_id_str": "1346485002574376963",
+      "in_reply_to_user_id": 258280288,
+      "in_reply_to_user_id_str": "258280288",
+      "in_reply_to_screen_name": "SmartFoxDev",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 05 21:02:18 +0000 2021",
+      "id": 1346562693000474600,
+      "id_str": "1346562693000474625",
+      "full_text": "Кто нибудь успешно выложил среднего/большого размера проект в AppStore (под iOS, iPadOS, macOS и tvOS) построенный полностью с SwiftUI?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        135
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jan 05 21:11:00 +0000 2021",
+      "id": 1346564880573337600,
+      "id_str": "1346564880573337600",
+      "full_text": "@randexdev Какие планы на будущие для проекта? Какие OS хотите поддержать? Какие способы/библиотеке использовали для помощи?",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "randexdev",
+            "name": "Ruslan Murin",
+            "id": 144130090,
+            "id_str": "144130090",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1346563945868513300,
+      "in_reply_to_status_id_str": "1346563945868513283",
+      "in_reply_to_user_id": 144130090,
+      "in_reply_to_user_id_str": "144130090",
+      "in_reply_to_screen_name": "randexdev",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jan 06 12:01:14 +0000 2021",
+      "id": 1346788914804252700,
+      "id_str": "1346788914804252672",
+      "full_text": "SpriteKit движок рендерит 14,400 (120x120) SKSpriteNode объектов. Чуть больше и FPS начинает падать при pan gesture на iPhone XS Max. Culling используется (помогает когда камера zoomed in). Анимаций/SKAction или particle effect могут FPS еще больше подавить. https://t.co/3l3PhiZUBK",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1346788907246039000,
+            "id_str": "1346788907246039040",
+            "indices": [
+              259,
+              282
+            ],
+            "media_url": "http://pbs.twimg.com/media/ErDBYCPWMAAH5fe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ErDBYCPWMAAH5fe.jpg",
+            "url": "https://t.co/3l3PhiZUBK",
+            "display_url": "pic.twitter.com/3l3PhiZUBK",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1346788914804252672/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1346788907246039000,
+            "id_str": "1346788907246039040",
+            "indices": [
+              259,
+              282
+            ],
+            "media_url": "http://pbs.twimg.com/media/ErDBYCPWMAAH5fe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ErDBYCPWMAAH5fe.jpg",
+            "url": "https://t.co/3l3PhiZUBK",
+            "display_url": "pic.twitter.com/3l3PhiZUBK",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1346788914804252672/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1346788907250278400,
+            "id_str": "1346788907250278400",
+            "indices": [
+              259,
+              282
+            ],
+            "media_url": "http://pbs.twimg.com/media/ErDBYCQW4AAJOMW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ErDBYCQW4AAJOMW.jpg",
+            "url": "https://t.co/3l3PhiZUBK",
+            "display_url": "pic.twitter.com/3l3PhiZUBK",
+            "expanded_url": "https://twitter.com/mobileunderhood/status/1346788914804252672/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Jan 06 14:58:36 +0000 2021",
+      "id": 1346833552269316000,
+      "id_str": "1346833552269316098",
+      "full_text": "@stef63693110 Точно. Кстати, игра WorldBox - God Sandbox это сделало. Прикольный эффект",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        87
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stef63693110",
+            "name": "stef",
+            "id": 1335095416032026600,
+            "id_str": "1335095416032026625",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1346827714372767700,
+      "in_reply_to_status_id_str": "1346827714372767745",
+      "in_reply_to_user_id": 1335095416032026600,
+      "in_reply_to_user_id_str": "1335095416032026625",
+      "in_reply_to_screen_name": "stef63693110",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 07 18:13:03 +0000 2021",
+      "id": 1347244875117375500,
+      "id_str": "1347244875117375491",
+      "full_text": "@igrekde У меня точное произношения. Можем по 20 минут в день по балакать)",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        74
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1347240538576220200,
+      "in_reply_to_status_id_str": "1347240538576220160",
+      "in_reply_to_user_id": 181697598,
+      "in_reply_to_user_id_str": "181697598",
+      "in_reply_to_screen_name": "igrekde",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jan 07 18:15:49 +0000 2021",
+      "id": 1347245571518689300,
+      "id_str": "1347245571518689280",
+      "full_text": "@igrekde Хахаха",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        15
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1347245428899766300,
+      "in_reply_to_status_id_str": "1347245428899766272",
+      "in_reply_to_user_id": 181697598,
+      "in_reply_to_user_id_str": "181697598",
+      "in_reply_to_screen_name": "igrekde",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jan 08 10:08:56 +0000 2021",
+      "id": 1347485429130547200,
+      "id_str": "1347485429130547201",
+      "full_text": "На сколько важен IDFA для вашей компаний?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jan 09 09:47:31 +0000 2021",
+      "id": 1347842427630067700,
+      "id_str": "1347842427630067721",
+      "full_text": "@evnik0 Как буду у компа, открою на pr",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        38
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "evnik0",
+            "name": "Eugene Berdnikov",
+            "id": 980339616787062800,
+            "id_str": "980339616787062785",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1347763541432942600,
+      "in_reply_to_status_id_str": "1347763541432942595",
+      "in_reply_to_user_id": 980339616787062800,
+      "in_reply_to_user_id_str": "980339616787062785",
+      "in_reply_to_screen_name": "evnik0",
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 10 10:47:35 +0000 2021",
+      "id": 1348219935198163000,
+      "id_str": "1348219935198162945",
+      "full_text": "Бывший Яндекс iOS разработчик, с августа, успешно переехал с девушкой в Торонто, Канаду работать по приглашению компаний. Если тоже хотите так сделать то можно найти его в Telegram по username @alexey_sobolevsky удачи",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        217
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056195982340358100,
+        "id_str": "1056195982340358150"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
