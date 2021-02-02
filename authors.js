@@ -6,6 +6,7 @@ export default authorId([
   //   first: '',  # id of first tweet
   //   post: false # Include only for author that hasn't finished his week yet. Will display link to twitter instead of archive
   // },
+  { username: 'mobileunderhood', first: '1353633333238968320' },
   { username: 'dmtopolog', first: '1351111509812928513' },
   { username: 'lightdelay', first: '1348551223243386880' },
   { username: 'mobileunderhood', first: '1345992494937497600' },
